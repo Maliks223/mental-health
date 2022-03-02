@@ -71,3 +71,10 @@ header {
   background-color: rgb(185, 185, 185);
   border-radius: 20px;
 }
+.title2 {
+  font-size: 40px;
+  font-family: Georgia;
+  font-style: italic;
+  text-align: center;
+}
+
